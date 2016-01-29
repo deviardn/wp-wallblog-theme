@@ -1,6 +1,8 @@
 # wp-wallblog-theme
 Wordpress theme wallpaper with blog
 
+**size file kurang lebih 170 kb**
+
 beberapa screenshot dari wordpress theme wallpaper with blog, cekidot :
 
 **page home**
