@@ -22,3 +22,5 @@ beberapa screenshot dari wordpress theme wallpaper with blog, cekidot :
 **related blog**
 
 ![related blog](https://cloud.githubusercontent.com/assets/6567330/12676800/34c91e3c-c6c7-11e5-89a8-96b7a16ea837.png)
+
+#deskripsinya belakangan :D
